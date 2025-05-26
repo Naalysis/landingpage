@@ -1,2 +1,2 @@
 # landingpage
-This is a basic landing page, used only html and css
+This is a basic landing page, using only html and css
